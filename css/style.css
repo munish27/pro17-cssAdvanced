@@ -1,0 +1,72 @@
+*{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.effect1>p{
+    font-weight: bold;
+    color: rgb(87, 85, 85);
+}
+.input2:focus{
+    outline: none;
+    border-color: blue;
+    box-shadow: 5px 10px 3px rgb(144, 144, 249);
+    
+}
+.input2{
+    margin-left: 20px;
+    border-radius: 5px;
+}
+.input3{
+    margin-left: 20px;
+    border-radius: 20px;
+}
+
+.input12:focus{
+    outline: none;
+    border-color: blue;
+    box-shadow: 9px 4px 5px 0 rgba(0, 0, 0, 0.5) inset
+}
+.input12{
+    margin-left: 20px;
+    border-radius: 5px;
+}
+.input13{
+    margin-left: 20px;
+    border-radius: 20px;
+}
+.input14:focus{
+    outline: none;
+    border-color: blue;
+    box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
+    0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+}
+.input14{
+    margin-left: 20px;
+    border-radius: 5px;
+    box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
+    0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+}
+.input14{
+    margin-left: 20px;
+    border-radius: 20px;
+    box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
+    0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+}
+.input17{
+    display: inline-block;
+    color: #000;
+    text-decoration: none;
+
+
+    
+    border-bottom: 4mm ridge rgba(211, 220, 50, .6);
+}
+.input20{
+    transition: box-shadow .3s;
+    border: 1px solid #ccc;
+    background: #fff;
+}
+.input20:hover{
+    box-shadow: 10px 10px 5px 12px lightblue;
+}
+
